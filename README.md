@@ -4,8 +4,6 @@
 This game is for testing purposes and uses the HyperBase library.
 HyperBase is a library that I wrote on SDL2 to facilitate some functions.
 
-**HyperBase -> https://github.com/plasmage/HyperBase**
-
 It is completely free to use and open to everyone.
 
 ![ss](https://user-images.githubusercontent.com/56451989/117885242-4a94f480-b2b6-11eb-940f-1dd880dd8d1d.png)
