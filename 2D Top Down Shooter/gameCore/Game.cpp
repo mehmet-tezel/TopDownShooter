@@ -80,11 +80,6 @@ int GAMECOREDLL_EX StartGame()
 		SDL_RenderPresent(CBase::CRenderer);
 	}
 
-	ak.~AK47();
-	glock.~Glock17();
-	firstaid.~FirstAid();
-	player.~Player();
-	hud.~Hud();
 	HYP_Free();
 
 	return 0;
